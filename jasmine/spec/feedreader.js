@@ -64,7 +64,7 @@ $(function() {
         */
 
         it('is hidden by default', function(){
-            expect(document.body.className).toBe('menu-hidden');
+            expect($('body').hasClass("menu-hidden")).toBe(true);
         });
 
         /* this test ensures the menu changes
