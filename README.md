@@ -19,8 +19,8 @@ Whether you work in an organization that uses test-driven development or in an o
 Feed Reader API to grab RSS feeds as JSON object we can make
 use of. It also uses the Handlebars templating library and
 jQuery.
-5. In jasmine/jasmine.js, you van found more about jasmine, the methods and functoions that are used.
-6. Once you have opened index.html in the browser, I will find the result of our test at the very bottom of the pages.
+5. In jasmine/jasmine.js, you can found more about jasmine, the methods and functions that are used.
+6. Once you have opened index.html in the browser, you will find the result of our test at the very bottom of the pages.
 
 ## Playing around with the test.
 
