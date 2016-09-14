@@ -14,7 +14,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 1. Download it from [here](https://github.com/pettibetty/frontend-nanodegree-feedreader).
 2. Open the index.html file in a browser.
-3. In the jasmine/spec/feedreader.js, is where all the test have been written. You would find explainations about which part of the test does what.
+3. In the jasmine/spec/feedreader.js, is where all the test have been written. You would find explanations about which part of the test does what.
 4. In js/app.js, you will found  our RSS feed reader application. It uses the Google
 Feed Reader API to grab RSS feeds as JSON object we can make
 use of. It also uses the Handlebars templating library and
